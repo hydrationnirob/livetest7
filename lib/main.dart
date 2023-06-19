@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'SecondPage.dart';
 
 void main() {
-  runApp(MaterialApp(
+  runApp(const MaterialApp(
     home: CounterApp(),
   ));
 }
